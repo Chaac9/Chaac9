@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Developing a Honeynet / Active SOC within the Azure cloud platform](https://github.com/Chaac9/AzureHoneynet_ActiveSoc/blob/main/README.md)
+  - [Configuring a Honeynet And Virtual SOC within the Azure cloud platform](https://github.com/Chaac9/AzureHoneynet_ActiveSoc/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>

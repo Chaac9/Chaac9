@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Projects</b>
   - [Configuring a Honeynet And Virtual SOC within the Azure cloud platform](https://github.com/Chaac9/AzureHoneynet_ActiveSoc/blob/main/README.md)
  
-  - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/AzureHoneynet_ActiveSoc/blob/main/README.md)
+  - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/VulnMngmnt_OpenVAS/blob/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>

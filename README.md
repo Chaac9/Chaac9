@@ -11,7 +11,7 @@
   - [Configuring Active Directory and Splunk Server Log Ingestion using VirtualBox Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
 
 k Server for Log
-<h2> 🤳 Connect with me:</h2>
+<h2> 💻 Connect with me:</h2>
 
 [<img align="left" alt="VictorMena | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 

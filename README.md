@@ -8,7 +8,7 @@
   - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/VulnMngmnt_OpenVAS/blob/main/README.md)
  
 - <b>System Administration and Cybersecurity / Home Lab Project</b>
-  - [Configuring Active Directory and Splunk Server Log Ingestion using VirtualBox Virtual Machines]
+  - [Configuring Active Directory and Splunk Server Log Ingestion using VirtualBox Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
 
 k Server for Log
 <h2> 🤳 Connect with me:</h2>

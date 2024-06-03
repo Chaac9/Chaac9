@@ -7,7 +7,7 @@
  
   - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/VulnMngmnt_OpenVAS/blob/main/README.md)
  
-- <b>System Administration and Cybersecurity / Home Lab Project</b>
+- <b>System Administration / Home Lab Project</b>
   - [Configuring Active Directory and Splunk Enterprise Server for Event Ingestion and Log Analysis using VirtualBox Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
 
 

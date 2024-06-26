@@ -11,7 +11,7 @@
 
   - [Configuring a Windows Server as a Domain Controller with DHCP and RAS/NAT Services, and Adding a Client to the Domain](https://github.com/Chaac9/Setting-up-AD-Domain-RAS-NAT-DHCP-on-Windows-Server-and-Adding-a-Client-to-the-Domain.md)
     
-  - [Configuring Active Directory and Splunk Enterprise Server for Event Ingestion and Log Analysis using VirtualBox Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
+  - [Configuring Active Directory and Splunk Enterprise Server for Event Ingestion and Log Analysis using Ubuntu Server, Windows Server, and Windows 10 Pro Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
 
 
 <h2> 💻 Connect with me:</h2>

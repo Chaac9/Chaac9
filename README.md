@@ -8,6 +8,9 @@
   - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/VulnMngmnt_OpenVAS/blob/main/README.md)
  
 - <b>System Administration / Home Lab Project</b>
+
+  - [Configuring a Windows Server as a Domain Controller with DHCP and RAS/NAT Services, and Adding a Client to the Domain](https://github.com/Chaac9/Setting-up-AD-Domain-RAS-NAT-DHCP-on-Windows-Server-and-Adding-a-Client-to-the-Domain.md)
+    
   - [Configuring Active Directory and Splunk Enterprise Server for Event Ingestion and Log Analysis using VirtualBox Virtual Machines](https://github.com/Chaac9/Active-Directory-and-Splunk-Server)
 
 

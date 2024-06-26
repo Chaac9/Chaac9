@@ -1,8 +1,8 @@
 <h1>Hi, I'm Victor! <br/><a href="https://github.com/Chaac9">IT Technician</a>, <a href="https://www.linkedin.com/in/victor-mena-b91b47135/">Aspiring Cybersecurity Professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Home Lab Cybersecurity and System Administration Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Microsoft Azure / Cybersecurity Projects</b>
   - [Configuring A Honeynet And Virtual SOC within the Azure Cloud Platform](https://github.com/Chaac9/AzureHoneynet_ActiveSoc/blob/main/README.md)
  
   - [Vulnerability Management using OpenVAS](https://github.com/Chaac9/VulnMngmnt_OpenVAS/blob/main/README.md)
